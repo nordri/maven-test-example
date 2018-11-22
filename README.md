@@ -1,6 +1,7 @@
 # maven-test-example
 Maven test example
 
-# run
+# run the test
 
 `mvn test`
+
